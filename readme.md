@@ -34,4 +34,4 @@ non plus sérieusement, j'attends beaucoup de l'apprentisage
 * Collaborer avec les autres
 * Découvrir de nouvelles personnes
 
-![Quand tu rentres chez toi après BeCode](giphy.webp)
+![Fournir des efforts afin de faire avancer ses projets.](/assets/images/princess.gif "princess")
