@@ -34,4 +34,4 @@ non plus sérieusement, j'attends beaucoup de l'apprentisage
 * Collaborer avec les autres
 * Découvrir de nouvelles personnes
 
-![Fournir des efforts afin de faire avancer ses projets.](/Markdown/assets/images/princess.gif "princess")
+![Fournir des efforts afin de faire avancer ses projets.](/assets/images/princess.gif "princess")
